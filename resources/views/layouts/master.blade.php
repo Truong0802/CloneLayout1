@@ -55,32 +55,32 @@
           </li>
           <li class="sidebar-list-item">
             <a href="#" target="_blank">
-              <span class="material-icons-outlined">inventory_2</span> Products
+              <span class="material-icons-outlined">inventory_2</span> Company Account
             </a>
           </li>
           <li class="sidebar-list-item">
             <a href="#" target="_blank">
-              <span class="material-icons-outlined">fact_check</span> Inventory
+              <span class="material-icons-outlined">fact_check</span> Category
             </a>
           </li>
           <li class="sidebar-list-item">
             <a href="#" target="_blank">
-              <span class="material-icons-outlined">add_shopping_cart</span> Purchase Orders
+              <span class="material-icons-outlined">add_shopping_cart</span> Expert
             </a>
           </li>
           <li class="sidebar-list-item">
             <a href="#" target="_blank">
-              <span class="material-icons-outlined">shopping_cart</span> Sales Orders
+              <span class="material-icons-outlined">shopping_cart</span> View Log
             </a>
           </li>
           <li class="sidebar-list-item">
             <a href="#" target="_blank">
-              <span class="material-icons-outlined">poll</span> Reports
+              <span class="material-icons-outlined">poll</span> Summary Log
             </a>
           </li>
           <li class="sidebar-list-item">
             <a href="#" target="_blank">
-              <span class="material-icons-outlined">settings</span> Settings
+              <span class="material-icons-outlined">settings</span> Consultan Manage
             </a>
           </li>
         </ul>
